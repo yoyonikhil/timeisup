@@ -14,4 +14,4 @@ async def amireallyalive(alive):
     await alive.edit("**`Jis race se mujhe nikaalne ki baat kar rahe hai yeh bewakoof ... woh nahi jaante hai ... us race ka sikandar main hoon  ψ(｀∇´)ψ`**\n\n"
                      "`Telethon version: 6.9.0\nPython: 3.7.3\nspecial Thanks:` @miya_bhi\n`Crew Challenge: #4 Rank holder\n\nAlways with you, my master!\n`"
                      f"`My peru owner`: {DEFAULTUSER}\n"
-                     "[Deploy this userbot Now](https://github.com/Dark-Princ3/X-tra-Telegram)")
+                     "[Deploy this userbot Now](https://github.com/yoyonikhil/timeisup)")
