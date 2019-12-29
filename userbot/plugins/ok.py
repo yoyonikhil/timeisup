@@ -20,23 +20,23 @@ async def _(event):
     if input_str == "ok":
         await event.edit(input_str)
         animation_chars = [
-            "F",
-            "U",
-            "C",
-            "K",
-            "Y",
-            "O",
-            "U",
             "B",
-            "C",
-            "FK",
-            "UU",
-            "FCUK",
-            "UOY",
-            "C",
-            "F",
             "Y",
-            "F",
+            "E",
+            "B",
+            "Y",
+            "E",
+            "S",
+            "I",
+            "R",
+            "OK",
+            "DONE",
+            "FINAL",
+            "S",
+            "I",
+            "R",
+            "O",
+            "K",
             "Ok Sar 😇"
         ]
 
