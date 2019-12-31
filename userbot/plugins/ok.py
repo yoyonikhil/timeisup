@@ -20,24 +20,24 @@ async def _(event):
     if input_str == "ok":
         await event.edit(input_str)
         animation_chars = [
-            "B",
+            "H",
+            "A",
+            "P",
+            "p",
+            "Y",
+            "N",
+            "E",
+            "W",
             "Y",
             "E",
-            "B",
-            "Y",
-            "E",
-            "S",
-            "I",
+            "A",
             "R",
-            "OK",
-            "DONE",
-            "FINAL",
-            "S",
-            "I",
-            "R",
-            "O",
-            "K",
-            "Ok Sar 😇"
+            "2",
+            "0",
+            "2",
+            "0",
+            "HAPPY NEW YEAR",
+            "WELCOME TO 2020 😇"
         ]
 
         for i in animation_ttl:
